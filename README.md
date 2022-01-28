@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mahdi hassanzadeh
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ai projects
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me : mahdihassanzadeh08@gmail.com
 
 <!---
